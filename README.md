@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hilary
 - 👀 I’m interested in Software Engineering and Artificial Intelligence
-- 🌱 I’m currently learning Software Engineering @ALX
+- 🌱 I’m a curious Software Engineering with willingness to learn new things 
 - 💞️ I’m looking to collaborate on anything software development
 - 📫 How to reach me: hilarytn@gmail.com
 
